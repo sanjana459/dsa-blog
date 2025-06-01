@@ -6,36 +6,36 @@ export const topics = [
     slug: 'array-list-coding-exercises-leetcode-faang-questions',
     description: 'Practice array/list problems',
     daysDone: 2,
-    totalDays: 7,
+    totalDays: 8,
   },
   {
     name: 'Dictionary – Coding Exercises',
     slug: 'dictionary-coding-exercises',
     description: 'Practice maps & key-value stores',
     daysDone: 0,
-    totalDays: 5,
+    totalDays: 6,
   },
   {
     name: 'Tuple – Immutable Sequence Exercises',
     slug: 'tuple-immutable-sequence-exercises',
     description: 'Learn how tuples work',
     daysDone: 0,
-    totalDays: 3,
+    totalDays: 6,
   },
-  // …continue adding each of your 40+ topics here in the same shape…
+
   {
     name: 'Linked List – Basic & Advanced',
     slug: 'linked-list-basic-advanced',
     description: 'Implement singly & doubly linked lists, solve pointer problems',
     daysDone: 0,
-    totalDays: 5,
+    totalDays: 45,
   },
   {
     name: 'Stack & Queue – Data Structures',
     slug: 'stack-queue-data-structures',
     description: 'LIFO vs FIFO exercises & applications',
     daysDone: 0,
-    totalDays: 4,
+    totalDays: 15,
   },
   {
     name: 'Tree – Binary & Balanced Trees',
